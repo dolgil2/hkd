@@ -16,7 +16,7 @@ st.sidebar.multiselect("담당자 선택", ["손승주", "원종윤", "김경호
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.metric("총 매출", "300억", "12.3%")
+    st.metric("총 매출", "2억", "12.3%")
 with col2:
     st.metric("활성 캠페인", "11개", "3개")
 with col3:
